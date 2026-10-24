@@ -1,0 +1,6 @@
+{
+  "name": "RouteReel — Animate Your Journey",
+  "description": "Create cinematic, animated travel route videos between locations in Bangladesh. Export 10s or 15s social media story videos in 9:16, 16:9, or 1:1 format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
